@@ -1,0 +1,39 @@
+# Karyotype of the 24 hours in a day
+#
+# The format of this file is
+#
+# chr - CHRNAME CHRLABEL START END COLOR
+#
+# In data files, chromosomes are refered to by CHRNAME. 
+# On the image, they are labeled by CHRLABEL
+#
+# Colors are taken from the spectral Brewer palette. 
+# To learn about Brewer palettes, see www.colorbrewer.org
+#
+# 60 minutes in an hour, but don't want to double-count so we 
+
+chr - h0 12am 0 59 lum80chr20
+chr - h1 1am 0 59 lum80chr21
+chr - h2 2am 0 59 lum80chr22
+chr - h3 3am 0 59 lum80chrx
+chr - h4 4am 0 59 lum80chry
+chr - h5 5am 0 59 lum80chr1
+chr - h6 6am 0 59 lum80chr2
+chr - h7 7am 0 59 lum80chr3
+chr - h8 8am 0 59 lum80chr4
+chr - h9 9am 0 59 lum80chr5
+chr - h10 10am 0 59 lum80chr6
+chr - h11 11am 0 59 lum80chr7
+chr - h12 12pm 0 59 lum80chr8
+chr - h13 1pm 0 59 lum80chr9
+chr - h14 2pm 0 59 lum80chr10
+chr - h15 3pm 0 59 lum80chr11
+chr - h16 4pm 0 59 lum80chr12
+chr - h17 5pm 0 59 lum80chr13
+chr - h18 6pm 0 59 lum80chr14
+chr - h19 7pm 0 59 lum80chr15
+chr - h20 8pm 0 59 lum80chr16
+chr - h21 9pm 0 59 lum80chr17
+chr - h22 10pm 0 59 lum80chr18
+chr - h23 11pm 0 59 lum80chr19
+

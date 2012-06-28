@@ -1,0 +1,6 @@
+bme211_class	8h	0	59	1
+bme211_class	9h	0	45	1
+bme215_class	10h	0	59	1
+bme215_class	11h	0	45	1
+cmpe277_class	12h	0	59	1
+cmpe277_class	13h	0	45	1

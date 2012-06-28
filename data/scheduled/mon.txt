@@ -1,0 +1,4 @@
+h11	0	59	1	scheduled_event=rotation_meeting
+h14	0	59	1	scheduled_event=bme211_meeting
+h15	0	59	1	scheduled_event=bme211_oh
+h14	0	59	1	scheduled_event=bme211_oh

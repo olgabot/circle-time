@@ -1,0 +1,18 @@
+
+<ideogram>
+
+<spacing>
+#default = 2u
+default = 10u
+<pairwise chr1;chr2>
+spacing = 2u
+</pairwise>
+<pairwise chr5;chr1>
+spacing = 25u
+</pairwise>
+</spacing>
+
+<<include ../../etc/ideogram.conf>>
+
+</ideogram>
+

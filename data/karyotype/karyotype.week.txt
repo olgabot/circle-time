@@ -1,0 +1,22 @@
+# Karyotype of the 7 days in a week
+#
+# The format of this file is
+#
+# chr - CHRNAME CHRLABEL START END COLOR
+#
+# In data files, chromosomes are referred to by CHRNAME. 
+# On the image, they are labeled by CHRLABEL
+#
+# Colors are taken from the spectral Brewer palette. 
+# To learn about Brewer palettes, see www.colorbrewer.org
+# 
+# There are 1440 minutes in a day, and to not double-count, 
+# we go to 1439 for each day
+
+chr - mon Monday 0 1439 set2-7-qual-1
+chr - tue Tuesday 0 1439 set2-7-qual-2
+chr - wed Wednesday 0 1439 set2-7-qual-3
+chr - thu Thursday 0 1439 set2-7-qual-4
+chr - fri Friday 0 1439 set2-7-qual-5
+chr - sat Saturday 0 1439 set2-7-qual-6
+chr - sun Sunday 0 1439 set2-7-qual-7
