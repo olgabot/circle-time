@@ -12,28 +12,28 @@
 #
 # 60 minutes in an hour, but don't want to double-count so we 
 
-chr - h0 0h 0 59 blues-9-seq-9 #lum80chr20
-chr - h1 1h 0 59 blues-9-seq-8 #lum80chr21
-chr - h2 2h 0 59 blues-9-seq-7 #lum80chr22
-chr - h3 3h 0 59 blues-9-seq-6 #lum80chrx
-chr - h4 4h 0 59 blues-9-seq-5 #lum80chry
-chr - h5 5h 0 59 blues-9-seq-4 #lum80chr1
-chr - h6 6h 0 59 ylorbr-9-seq-6 #lum80chr2
-chr - h7 7h 0 59 ylorbr-9-seq-5 #lum80chr3
-chr - h8 8h 0 59 ylorbr-9-seq-4 #lum80chr4
-chr - h9 9h 0 59 ylorbr-9-seq-3 #lum80chr5
-chr - h10 10h 0 59 ylorbr-9-seq-2 #lum80chr6
-chr - h11 11h 0 59 ylorbr-9-seq-1 #lum80chr7
-chr - h12 12h 0 59 ylorbr-9-seq-1  #lum80chr8
-chr - h13 13h 0 59 ylorbr-9-seq-2 #lum80chr9
-chr - h14 14h 0 59 ylorbr-9-seq-3 #lum80chr10
-chr - h15 15h 0 59 ylorbr-9-seq-4 #lum80chr11
-chr - h16 16h 0 59 ylorbr-9-seq-5 #lum80chr12
-chr - h17 17h 0 59 ylorbr-9-seq-6 #lum80chr13
-chr - h18 18h 0 59 blues-9-seq-4 #lum80chr14
-chr - h19 19h 0 59 blues-9-seq-5 #lum80chr15
-chr - h20 20h 0 59 blues-9-seq-6 #lum80chr16
-chr - h21 21h 0 59 blues-9-seq-7 #lum80chr17
-chr - h22 22h 0 59 blues-9-seq-8 #lum80chr18
-chr - h23 23h 0 59 blues-9-seq-9 #lum80chr19
+chr - h00 0h 0 59000000 blues-9-seq-9 #lum80chr20
+chr - h01 1h 0 59000000 blues-9-seq-8 #lum80chr21
+chr - h02 2h 0 59000000 blues-9-seq-7 #lum80chr22
+chr - h03 3h 0 59000000 blues-9-seq-6 #lum80chrx
+chr - h04 4h 0 59000000 blues-9-seq-5 #lum80chry
+chr - h05 5h 0 59000000 blues-9-seq-4 #lum80chr1
+chr - h06 6h 0 59000000 ylorbr-9-seq-6 #lum80chr2
+chr - h07 7h 0 59000000 ylorbr-9-seq-5 #lum80chr3
+chr - h08 8h 0 59000000 ylorbr-9-seq-4 #lum80chr4
+chr - h09 9h 0 59000000 ylorbr-9-seq-3 #lum80chr5
+chr - h10 10h 0 59000000 ylorbr-9-seq-2 #lum80chr6
+chr - h11 11h 0 59000000 ylorbr-9-seq-1 #lum80chr7
+chr - h12 12h 0 59000000 ylorbr-9-seq-1  #lum80chr8
+chr - h13 13h 0 59000000 ylorbr-9-seq-2 #lum80chr9
+chr - h14 14h 0 59000000 ylorbr-9-seq-3 #lum80chr10
+chr - h15 15h 0 59000000 ylorbr-9-seq-4 #lum80chr11
+chr - h16 16h 0 59000000 ylorbr-9-seq-5 #lum80chr12
+chr - h17 17h 0 59000000 ylorbr-9-seq-6 #lum80chr13
+chr - h18 18h 0 59000000 blues-9-seq-4 #lum80chr14
+chr - h19 19h 0 59000000 blues-9-seq-5 #lum80chr15
+chr - h20 20h 0 59000000 blues-9-seq-6 #lum80chr16
+chr - h21 21h 0 59000000 blues-9-seq-7 #lum80chr17
+chr - h22 22h 0 59000000 blues-9-seq-8 #lum80chr18
+chr - h23 23h 0 59000000 blues-9-seq-9 #lum80chr19
 
