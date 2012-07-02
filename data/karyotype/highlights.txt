@@ -1,0 +1,18 @@
+# Highlights/karyotype of the first 12 hours of a day
+# 
+
+#h00:0.40r;h01:0.43r;h02:0.45r;h03:0.48r;h04:0.50r;h05:0.53r;h06:0.56r;h07:0.58r;h08:0.61r;h09:0.63r;h10:0.66r;h11:0.69r;h12:0.71r;h13:0.74r;h14:0.77r;h15:0.79r;h16:0.82r;h17:0.84r;h18:0.87r;h19:0.90r;h20:0.92r;h21:0.95r;h22:0.97r;h23:1.00r
+
+
+h12 0 59000000 fill_color=blues-9-seq-9,r0=0.34r,r1=0.39r
+h13 0 59000000 fill_color=blues-9-seq-8,r0=0.37r,r1=0.42r
+h14 0 59000000 fill_color=blues-9-seq-7,r0=0.40r,r1=0.45r
+h15 0 59000000 fill_color=blues-9-seq-6,r0=0.43r,r1=0.48r
+h16 0 59000000 fill_color=blues-9-seq-5,r0=0.46r,r1=0.51r
+h17 0 59000000 fill_color=blues-9-seq-4,r0=0.49r,r1=0.54r
+h18 0 59000000 fill_color=ylorbr-9-seq-6,r0=0.52r,r1=0.57r
+h19 0 59000000 fill_color=ylorbr-9-seq-5,r0=0.56r,r1=0.61r
+h20 0 59000000 fill_color=ylorbr-9-seq-4,r0=0.59r,r1=0.64r,
+h21 0 59000000 fill_color=ylorbr-9-seq-3,r0=0.62r,r1=0.67r
+h22 0 59000000 fill_color=ylorbr-9-seq-2,r0=0.65r,r1=0.70r
+h23 0 59000000 fill_color=ylorbr-9-seq-1,r0=0.68r,r1=0.73r
