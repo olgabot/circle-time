@@ -1,0 +1,30 @@
+<Module>
+	<ModulePrefs title="hello world example"/>
+	<Content type="html">
+		<![CDATA[
+><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> <script> 
+<Require feature="google.calendar-0.5.read"/>
+function eventCallback(response) {
+  var daveResponse = response[0];
+  if ('error' in response[0]) {
+    alert('Something went wrong');
+    return;
+  }
+
+  var events = response[0]['events'];
+  var out = '';
+  for(var i = 0; i < events.length; ++i) {
+    var e = events[i];
+    if ('title' in e) {
+      out += 'Title = ' + e.title + '\n';
+    }
+  }
+  alert(out);
+}
+var startDate = {year: 2009, month: 12, date : 24, hour : 0, minute:0, second: 0};
+var endDate = {year: 2010, month: 1, date : 1, hour : 0, minute: 0, second: 0};
+google.calendar.read.getEvents(eventCallback, ["olgabotvinniktest@gmail.com"], startDate, endDate);
+</script>
+]]>
+	</Content>
+</Module>
