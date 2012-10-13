@@ -5,14 +5,19 @@
   </ModulePrefs>
 	<Content type="html">
 		<![CDATA[
-><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
-<div id="debug_div" style="font-size:9pt; padding:5px; color: red;"></div>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+omg printing-should show events 01
+ <div id="content_div"></div>
+<div id="debug_div" style="color:red"></div>
 <script type="text/javascript"> 
-  
+
 // debug flag. When its value is non-zero, debugging messages are displayed      
 var debug = 1;
 // The string containing debugging messages
 var debug_html = "";
+
+// String for content
+var content_html = "";  
 
 // Outputs debug messages if debug flag has a non-zero value
 function print(msg) {      
@@ -38,10 +43,12 @@ function eventCallback(response) {
     if ('title' in e) {
 <!--       time_spent += google.calendar.utils.toDate(e.startTime) - 
         google.calendar.utils.toDate(e.endTime);
- -->      out += 'Title = ' + e.title + '\n';
+ -->      
+      content_html += 'Title = ' + e.title + '\n';
     }
   }
   <!-- print(time_spent); -->
+  document.getElementById("content_div").innerHTML = content_html;
   print(out);
   <!-- alert(out); -->
 }
